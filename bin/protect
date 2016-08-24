@@ -1,0 +1,39 @@
+#!/usr/bin/env node
+
+/**
+ * Created by chen on 15-7-4.
+ */
+
+process_start();
+
+/**
+ * 启动进程的方法
+ */
+function process_start()
+{
+    console.log('Mother process is running.');
+
+    var process = require('child_process').spawn('node', ['bin/www']);
+
+    process.stdout.on('data', function (data)
+    {
+        console.log(data.toString());
+    });
+
+    process.stderr.on('data', function (data)
+    {
+        console.log(data.toString());
+    });
+
+    /**
+     * 出错时退出
+     */
+    process.on('exit', function (code)
+    {
+        console.log('child process exited with code ' + code);
+        delete(process);
+        setTimeout(process_start,2000);
+
+    });
+
+}
