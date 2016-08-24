@@ -7712,7 +7712,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 17px;
   line-height: 24px;
   margin: 0;
-  padding: 0;
+  padding: 15px 15px 0 15px;
 }
 #fh5co-board .item img {
   max-width: 100%;
