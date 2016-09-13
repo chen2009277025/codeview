@@ -1,9 +1,14 @@
 var express = require('express');
 var router = express.Router();
 
+var IndexService = require(__dirname+"/../service/indexService");
+
 /* GET home page. */
 router.get(['/', "/index"], function (req, res, next) {
-    res.render('index', {title: 'Express'});
+    var response = res;
+    IndexService.getPages(function(pageLists){
+        response.render('index', {pageList:pageLists});
+    });
 });
 
 router.get('/about', function (req, res, next) {

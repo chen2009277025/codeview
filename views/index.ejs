@@ -51,6 +51,15 @@
     <script src="js/respond.min.js"></script>
     <![endif]-->
 
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?1de0f7027da402eca24519c75ddd356f";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
 </head>
 <body>
 
@@ -88,14 +97,26 @@
         <div class="row">
 
             <div id="fh5co-board" data-columns>
-                <% for(var i=0; i< 20; i++) {%>
+                <% for(var i=0; i < pageList.length; i++) {%>
                     <div class="item">
                         <div class="animate-box">
-                            <a class="fh5co-item-title">
-                                这是标题
+                            <a href="/code_download/<%=pageList[i].page_path%>" class="fh5co-item-title">
+                                <%=pageList[i].page_name%>
                             </a>
+                            <p class="page-detail">这是一条消息</p>
                         </div>
-                        <div class="fh5co-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, eos?
+                        <div class="fh5co-desc">
+                            <ul class="tags">
+                                <li>
+                                    <a href="#">标签1</a>
+                                </li>
+                                <li>
+                                    <a href="#">标签2</a>
+                                </li>
+                                <li>
+                                    <a href="#">标签2</a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 <% } %>
@@ -107,6 +128,7 @@
 <footer id="fh5co-footer">
     <div class="container">
         <div class="row row-padded">
+            <p id="copybar">Copyright © <a href="./">highfe.com</a> All Rights Reserved.  <a href="http://www.miitbeian.gov.cn/" target="_blank" rel="nofollow">京ICP备16046054号</a></p>
         </div>
     </div>
 </footer>
@@ -125,6 +147,7 @@
 <script src="js/salvattore.min.js"></script>
 <!-- Main JS -->
 <script src="js/main.js"></script>
+
 
 </body>
 </html>
