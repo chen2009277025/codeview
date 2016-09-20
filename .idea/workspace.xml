@@ -2,612 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd60fb51-db62-4ef1-89fd-1d54f067b4c6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/github-activity/dist/octicons/octicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/github-activity/dist/octicons/octicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/github-activity/dist/octicons/octicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/jquery-rss/dist/compiler.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/github-chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/img_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/profile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/projects/project-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/projects/project-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/projects/project-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/projects/project-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/projects/project-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/projects/project-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/projects/project-featured.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/icomoon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/js/html5shiv.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/js/page/about/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/js/page/index/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/less/base.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/less/page/about/about.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/less/responsive.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/less/theme-default.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/github-activity/dist/github-activity-0.1.0.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/github-activity/dist/github-activity-0.1.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/github-activity/dist/github-activity-0.1.1.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/github-activity/dist/github-activity-0.1.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/github-activity/dist/mustache/mustache.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/github-activity/dist/octicons/octicons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/github-activity/dist/octicons/octicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/github-activity/src/github-activity.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/github-activity/src/github-activity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/jquery-1.11.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/jquery-migrate-1.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/jquery-rss/dist/jquery.rss.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/icomoon.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/main.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/css/animate.css" afterPath="$PROJECT_DIR$/dev/css/animate.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/css/magnific-popup.css" afterPath="$PROJECT_DIR$/dev/css/magnific-popup.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/css/salvattore.css" afterPath="$PROJECT_DIR$/dev/css/salvattore.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/css/style.css.map" afterPath="$PROJECT_DIR$/dev/css/style.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/dev/fonts/bootstrap/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/dev/fonts/bootstrap/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/dev/fonts/bootstrap/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/dev/fonts/bootstrap/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/dev/fonts/bootstrap/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/bootstrap/index.html" afterPath="$PROJECT_DIR$/dev/fonts/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.eot" afterPath="$PROJECT_DIR$/dev/fonts/icomoon/icomoon/fonts/icomoon.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.svg" afterPath="$PROJECT_DIR$/dev/fonts/icomoon/icomoon/fonts/icomoon.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.ttf" afterPath="$PROJECT_DIR$/dev/fonts/icomoon/icomoon/fonts/icomoon.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.woff" afterPath="$PROJECT_DIR$/dev/fonts/icomoon/icomoon/fonts/icomoon.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/icomoon/icomoon/Read Me.txt" afterPath="$PROJECT_DIR$/dev/fonts/icomoon/icomoon/Read Me.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/icomoon/icomoon/demo-files/demo.css" afterPath="$PROJECT_DIR$/dev/fonts/icomoon/icomoon/demo-files/demo.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/icomoon/icomoon/demo-files/demo.js" afterPath="$PROJECT_DIR$/dev/fonts/icomoon/icomoon/demo-files/demo.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/icomoon/icomoon/demo.html" afterPath="$PROJECT_DIR$/dev/fonts/icomoon/icomoon/demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/icomoon/icomoon/fonts/icomoon.eot" afterPath="$PROJECT_DIR$/dev/fonts/icomoon/icomoon.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/icomoon/icomoon/fonts/icomoon.svg" afterPath="$PROJECT_DIR$/dev/fonts/icomoon/icomoon.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/icomoon/icomoon/fonts/icomoon.ttf" afterPath="$PROJECT_DIR$/dev/fonts/icomoon/icomoon.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/icomoon/icomoon/fonts/icomoon.woff" afterPath="$PROJECT_DIR$/dev/fonts/icomoon/icomoon.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/icomoon/icomoon/selection.json" afterPath="$PROJECT_DIR$/dev/fonts/icomoon/icomoon/selection.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/icomoon/icomoon/style.css" afterPath="$PROJECT_DIR$/dev/fonts/icomoon/icomoon/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/icomoon/index.html" afterPath="$PROJECT_DIR$/dev/fonts/icomoon/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/fonts/index.html" afterPath="$PROJECT_DIR$/dev/fonts/bootstrap/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/dev/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/js/index.html" afterPath="$PROJECT_DIR$/dev/css/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/js/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/dev/js/jquery.easing.1.3.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/js/jquery.magnific-popup.min.js" afterPath="$PROJECT_DIR$/dev/js/jquery.magnific-popup.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/js/jquery.min.js" afterPath="$PROJECT_DIR$/dev/js/jquery.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/js/jquery.waypoints.min.js" afterPath="$PROJECT_DIR$/dev/js/jquery.waypoints.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/js/modernizr-2.6.2.min.js" afterPath="$PROJECT_DIR$/dev/js/modernizr-2.6.2.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/js/respond.min.js" afterPath="$PROJECT_DIR$/dev/js/respond.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/js/salvattore.min.js" afterPath="$PROJECT_DIR$/dev/js/salvattore.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/comment/comment.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/comment/comment.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/comment/continuecomment.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/comment/continuecomment.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/dialog/dialog.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/dialog/dialog.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/dialog/dialog.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/dialog/dialog.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/display/autorefresh.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/display/autorefresh.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/display/fullscreen.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/display/fullscreen.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/display/fullscreen.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/display/fullscreen.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/display/panel.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/display/panel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/display/placeholder.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/display/placeholder.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/display/rulers.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/display/rulers.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/edit/closebrackets.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/edit/closebrackets.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/edit/closetag.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/edit/closetag.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/edit/continuelist.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/edit/continuelist.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/edit/matchbrackets.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/edit/matchbrackets.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/edit/matchtags.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/edit/matchtags.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/edit/trailingspace.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/edit/trailingspace.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/fold/brace-fold.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/fold/brace-fold.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/fold/comment-fold.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/fold/comment-fold.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/fold/foldcode.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/fold/foldcode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/fold/foldgutter.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/fold/foldgutter.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/fold/foldgutter.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/fold/foldgutter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/fold/indent-fold.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/fold/indent-fold.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/fold/markdown-fold.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/fold/markdown-fold.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/fold/xml-fold.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/fold/xml-fold.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/hint/anyword-hint.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/hint/anyword-hint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/hint/css-hint.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/hint/css-hint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/hint/html-hint.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/hint/html-hint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/hint/javascript-hint.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/hint/javascript-hint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/hint/show-hint.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/hint/show-hint.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/hint/show-hint.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/hint/show-hint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/hint/sql-hint.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/hint/sql-hint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/hint/xml-hint.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/hint/xml-hint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/lint/coffeescript-lint.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/lint/coffeescript-lint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/lint/css-lint.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/lint/css-lint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/lint/html-lint.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/lint/html-lint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/lint/javascript-lint.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/lint/javascript-lint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/lint/json-lint.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/lint/json-lint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/lint/lint.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/lint/lint.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/lint/lint.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/lint/lint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/lint/yaml-lint.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/lint/yaml-lint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/merge/merge.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/merge/merge.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/merge/merge.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/merge/merge.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/mode/loadmode.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/mode/loadmode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/mode/multiplex.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/mode/multiplex.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/mode/multiplex_test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/mode/multiplex_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/mode/overlay.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/mode/overlay.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/mode/simple.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/mode/simple.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/runmode/colorize.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/runmode/colorize.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/runmode/runmode-standalone.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/runmode/runmode-standalone.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/runmode/runmode.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/runmode/runmode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/runmode/runmode.node.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/runmode/runmode.node.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/scroll/annotatescrollbar.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/scroll/annotatescrollbar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/scroll/scrollpastend.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/scroll/scrollpastend.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/scroll/simplescrollbars.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/scroll/simplescrollbars.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/scroll/simplescrollbars.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/scroll/simplescrollbars.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/search/jump-to-line.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/search/jump-to-line.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/search/match-highlighter.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/search/match-highlighter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/search/matchesonscrollbar.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/search/matchesonscrollbar.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/search/matchesonscrollbar.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/search/matchesonscrollbar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/search/search.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/search/search.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/search/searchcursor.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/search/searchcursor.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/selection/active-line.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/selection/active-line.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/selection/mark-selection.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/selection/mark-selection.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/selection/selection-pointer.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/selection/selection-pointer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/tern/tern.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/tern/tern.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/tern/tern.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/tern/tern.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/tern/worker.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/tern/worker.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/addon/wrap/hardwrap.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/addon/wrap/hardwrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/bin/authors.sh" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/bin/authors.sh" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/bin/compress" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/bin/compress" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/bin/lint" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/bin/lint" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/bin/release" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/bin/release" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/bin/source-highlight" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/bin/source-highlight" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/bin/upload-release.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/bin/upload-release.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/activeline.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/activeline.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/anywordhint.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/anywordhint.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/bidi.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/bidi.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/btree.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/btree.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/buffers.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/buffers.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/changemode.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/changemode.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/closebrackets.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/closebrackets.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/closetag.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/closetag.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/complete.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/complete.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/emacs.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/emacs.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/folding.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/folding.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/fullscreen.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/fullscreen.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/hardwrap.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/hardwrap.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/html5complete.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/html5complete.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/indentwrap.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/indentwrap.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/lint.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/lint.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/loadmode.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/loadmode.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/marker.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/marker.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/markselection.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/markselection.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/matchhighlighter.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/matchhighlighter.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/matchtags.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/matchtags.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/merge.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/merge.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/multiplex.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/multiplex.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/mustache.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/mustache.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/panel.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/panel.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/placeholder.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/placeholder.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/preview.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/preview.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/requirejs.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/requirejs.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/resize.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/resize.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/rulers.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/rulers.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/runmode.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/runmode.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/search.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/search.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/simplemode.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/simplemode.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/simplescrollbars.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/simplescrollbars.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/spanaffectswrapping_shim.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/spanaffectswrapping_shim.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/sublime.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/sublime.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/tern.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/tern.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/theme.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/theme.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/trailingspace.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/trailingspace.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/variableheight.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/variableheight.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/vim.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/vim.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/visibletabs.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/visibletabs.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/widget.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/widget.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/demo/xmlcomplete.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/demo/xmlcomplete.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/doc/activebookmark.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/doc/activebookmark.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/doc/compress.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/doc/compress.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/doc/docs.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/doc/docs.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/doc/internals.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/doc/internals.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/doc/logo.png" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/doc/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/doc/logo.svg" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/doc/logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/doc/manual.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/doc/manual.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/doc/realworld.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/doc/realworld.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/doc/releases.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/doc/releases.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/doc/reporting.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/doc/reporting.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/doc/upgrade_v2.2.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/doc/upgrade_v2.2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/doc/upgrade_v3.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/doc/upgrade_v3.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/doc/upgrade_v4.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/doc/upgrade_v4.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/doc/yinyang.png" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/doc/yinyang.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/keymap/emacs.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/keymap/emacs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/keymap/sublime.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/keymap/sublime.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/keymap/vim.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/keymap/vim.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/lib/codemirror.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/lib/codemirror.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/lib/codemirror.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/lib/codemirror.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/apl/apl.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/apl/apl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/apl/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/apl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/asciiarmor/asciiarmor.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/asciiarmor/asciiarmor.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/asciiarmor/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/asciiarmor/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/asn.1/asn.1.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/asn.1/asn.1.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/asn.1/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/asn.1/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/asterisk/asterisk.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/asterisk/asterisk.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/asterisk/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/asterisk/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/brainfuck/brainfuck.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/brainfuck/brainfuck.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/brainfuck/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/brainfuck/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/clike/clike.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/clike/clike.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/clike/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/clike/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/clike/scala.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/clike/scala.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/clike/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/clike/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/clojure/clojure.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/clojure/clojure.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/clojure/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/clojure/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/cmake/cmake.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/cmake/cmake.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/cmake/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/cmake/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/cobol/cobol.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/cobol/cobol.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/cobol/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/cobol/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/coffeescript/coffeescript.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/coffeescript/coffeescript.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/coffeescript/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/coffeescript/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/commonlisp/commonlisp.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/commonlisp/commonlisp.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/commonlisp/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/commonlisp/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/crystal/crystal.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/crystal/crystal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/crystal/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/crystal/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/css/css.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/css.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/css/gss.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/gss.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/css/gss_test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/gss_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/css/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/css/less.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/less.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/css/less_test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/less_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/css/scss.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/scss.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/css/scss_test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/scss_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/css/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/cypher/cypher.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/cypher/cypher.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/cypher/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/cypher/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/d/d.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/d/d.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/d/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/d/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/dart/dart.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dart/dart.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/dart/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dart/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/diff/diff.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/diff/diff.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/diff/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/diff/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/django/django.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/django/django.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/django/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/django/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/dockerfile/dockerfile.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dockerfile/dockerfile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/dockerfile/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dockerfile/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/dtd/dtd.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dtd/dtd.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/dtd/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dtd/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/dylan/dylan.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dylan/dylan.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/dylan/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dylan/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/dylan/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dylan/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/ebnf/ebnf.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ebnf/ebnf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/ebnf/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ebnf/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/ecl/ecl.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ecl/ecl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/ecl/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ecl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/eiffel/eiffel.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/eiffel/eiffel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/eiffel/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/eiffel/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/elm/elm.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/elm/elm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/elm/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/elm/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/erlang/erlang.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/erlang/erlang.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/erlang/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/erlang/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/factor/factor.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/factor/factor.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/factor/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/factor/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/fcl/fcl.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/fcl/fcl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/fcl/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/fcl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/forth/forth.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/forth/forth.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/forth/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/forth/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/fortran/fortran.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/fortran/fortran.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/fortran/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/fortran/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/gas/gas.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/gas/gas.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/gas/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/gas/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/gfm/gfm.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/gfm/gfm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/gfm/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/gfm/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/gfm/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/gfm/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/gherkin/gherkin.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/gherkin/gherkin.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/gherkin/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/gherkin/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/go/go.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/go/go.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/go/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/go/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/groovy/groovy.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/groovy/groovy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/groovy/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/groovy/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/haml/haml.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haml/haml.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/haml/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haml/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/haml/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haml/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/handlebars/handlebars.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/handlebars/handlebars.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/handlebars/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/handlebars/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/haskell-literate/haskell-literate.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haskell-literate/haskell-literate.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/haskell-literate/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haskell-literate/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/haskell/haskell.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haskell/haskell.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/haskell/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haskell/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/haxe/haxe.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haxe/haxe.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/haxe/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haxe/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/htmlembedded/htmlembedded.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/htmlembedded/htmlembedded.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/htmlembedded/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/htmlembedded/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/htmlmixed/htmlmixed.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/htmlmixed/htmlmixed.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/htmlmixed/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/htmlmixed/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/http/http.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/http/http.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/http/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/http/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/idl/idl.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/idl/idl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/idl/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/idl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/jade/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/jade/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/jade/jade.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/jade/jade.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/javascript/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/javascript/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/javascript/javascript.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/javascript/javascript.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/javascript/json-ld.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/javascript/json-ld.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/javascript/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/javascript/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/javascript/typescript.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/javascript/typescript.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/jinja2/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/jinja2/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/jinja2/jinja2.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/jinja2/jinja2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/jsx/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/jsx/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/jsx/jsx.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/jsx/jsx.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/jsx/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/jsx/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/julia/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/julia/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/julia/julia.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/julia/julia.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/livescript/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/livescript/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/livescript/livescript.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/livescript/livescript.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/lua/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/lua/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/lua/lua.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/lua/lua.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/markdown/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/markdown/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/markdown/markdown.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/markdown/markdown.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/markdown/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/markdown/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/mathematica/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mathematica/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/mathematica/mathematica.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mathematica/mathematica.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/mbox/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mbox/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/mbox/mbox.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mbox/mbox.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/meta.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/meta.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/mirc/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mirc/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/mirc/mirc.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mirc/mirc.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/mllike/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mllike/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/mllike/mllike.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mllike/mllike.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/modelica/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/modelica/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/modelica/modelica.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/modelica/modelica.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/mscgen/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mscgen/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/mscgen/mscgen.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mscgen/mscgen.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/mscgen/mscgen_test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mscgen/mscgen_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/mscgen/msgenny_test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mscgen/msgenny_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/mscgen/xu_test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mscgen/xu_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/mumps/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mumps/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/mumps/mumps.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mumps/mumps.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/nginx/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/nginx/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/nginx/nginx.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/nginx/nginx.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/nsis/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/nsis/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/nsis/nsis.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/nsis/nsis.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/ntriples/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ntriples/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/ntriples/ntriples.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ntriples/ntriples.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/octave/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/octave/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/octave/octave.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/octave/octave.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/oz/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/oz/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/oz/oz.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/oz/oz.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/pascal/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/pascal/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/pascal/pascal.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/pascal/pascal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/pegjs/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/pegjs/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/pegjs/pegjs.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/pegjs/pegjs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/perl/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/perl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/perl/perl.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/perl/perl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/php/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/php/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/php/php.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/php/php.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/php/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/php/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/pig/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/pig/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/pig/pig.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/pig/pig.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/powershell/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/powershell/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/powershell/powershell.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/powershell/powershell.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/powershell/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/powershell/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/properties/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/properties/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/properties/properties.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/properties/properties.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/protobuf/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/protobuf/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/protobuf/protobuf.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/protobuf/protobuf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/puppet/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/puppet/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/puppet/puppet.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/puppet/puppet.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/python/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/python/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/python/python.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/python/python.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/python/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/python/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/q/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/q/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/q/q.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/q/q.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/r/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/r/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/r/r.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/r/r.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/rpm/changes/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/rpm/changes/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/rpm/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/rpm/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/rpm/rpm.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/rpm/rpm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/rst/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/rst/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/rst/rst.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/rst/rst.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/ruby/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ruby/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/ruby/ruby.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ruby/ruby.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/ruby/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ruby/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/rust/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/rust/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/rust/rust.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/rust/rust.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/rust/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/rust/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/sas/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sas/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/sas/sas.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sas/sas.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/sass/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sass/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/sass/sass.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sass/sass.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/scheme/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/scheme/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/scheme/scheme.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/scheme/scheme.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/shell/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/shell/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/shell/shell.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/shell/shell.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/shell/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/shell/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/sieve/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sieve/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/sieve/sieve.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sieve/sieve.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/slim/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/slim/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/slim/slim.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/slim/slim.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/slim/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/slim/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/smalltalk/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/smalltalk/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/smalltalk/smalltalk.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/smalltalk/smalltalk.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/smarty/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/smarty/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/smarty/smarty.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/smarty/smarty.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/solr/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/solr/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/solr/solr.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/solr/solr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/soy/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/soy/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/soy/soy.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/soy/soy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/sparql/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sparql/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/sparql/sparql.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sparql/sparql.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/spreadsheet/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/spreadsheet/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/spreadsheet/spreadsheet.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/spreadsheet/spreadsheet.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/sql/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sql/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/sql/sql.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sql/sql.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/stex/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/stex/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/stex/stex.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/stex/stex.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/stex/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/stex/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/stylus/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/stylus/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/stylus/stylus.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/stylus/stylus.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/swift/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/swift/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/swift/swift.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/swift/swift.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/tcl/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tcl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/tcl/tcl.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tcl/tcl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/textile/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/textile/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/textile/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/textile/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/textile/textile.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/textile/textile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/tiddlywiki/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tiddlywiki/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/tiddlywiki/tiddlywiki.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tiddlywiki/tiddlywiki.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/tiddlywiki/tiddlywiki.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tiddlywiki/tiddlywiki.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/tiki/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tiki/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/tiki/tiki.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tiki/tiki.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/tiki/tiki.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tiki/tiki.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/toml/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/toml/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/toml/toml.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/toml/toml.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/tornado/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tornado/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/tornado/tornado.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tornado/tornado.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/troff/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/troff/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/troff/troff.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/troff/troff.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/ttcn-cfg/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ttcn-cfg/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/ttcn-cfg/ttcn-cfg.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ttcn-cfg/ttcn-cfg.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/ttcn/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ttcn/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/ttcn/ttcn.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ttcn/ttcn.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/turtle/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/turtle/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/turtle/turtle.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/turtle/turtle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/twig/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/twig/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/twig/twig.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/twig/twig.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/vb/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/vb/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/vb/vb.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/vb/vb.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/vbscript/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/vbscript/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/vbscript/vbscript.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/vbscript/vbscript.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/velocity/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/velocity/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/velocity/velocity.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/velocity/velocity.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/verilog/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/verilog/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/verilog/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/verilog/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/verilog/verilog.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/verilog/verilog.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/vhdl/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/vhdl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/vhdl/vhdl.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/vhdl/vhdl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/vue/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/vue/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/vue/vue.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/vue/vue.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/webidl/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/webidl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/webidl/webidl.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/webidl/webidl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/xml/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/xml/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/xml/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/xml/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/xml/xml.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/xml/xml.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/xquery/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/xquery/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/xquery/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/xquery/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/xquery/xquery.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/xquery/xquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/yacas/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/yacas/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/yacas/yacas.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/yacas/yacas.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/yaml-frontmatter/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/yaml-frontmatter/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/yaml-frontmatter/yaml-frontmatter.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/yaml-frontmatter/yaml-frontmatter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/yaml/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/yaml/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/yaml/yaml.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/yaml/yaml.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/z80/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/z80/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/mode/z80/z80.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/mode/z80/z80.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/comment_test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/comment_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/doc_test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/doc_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/driver.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/driver.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/emacs_test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/emacs_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/index.html" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/lint.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/lint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/mode_test.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/mode_test.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/mode_test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/mode_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/multi_test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/multi_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/phantom_driver.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/phantom_driver.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/run.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/run.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/scroll_test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/scroll_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/search_test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/search_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/sql-hint-test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/sql-hint-test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/sublime_test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/sublime_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/test/vim_test.js" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/test/vim_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/3024-day.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/3024-day.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/3024-night.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/3024-night.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/abcdef.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/abcdef.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/ambiance-mobile.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/ambiance-mobile.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/ambiance.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/ambiance.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/base16-dark.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/base16-dark.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/base16-light.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/base16-light.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/bespin.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/bespin.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/blackboard.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/blackboard.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/cobalt.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/cobalt.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/colorforth.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/colorforth.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/dracula.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/dracula.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/eclipse.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/eclipse.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/elegant.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/elegant.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/erlang-dark.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/erlang-dark.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/hopscotch.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/hopscotch.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/icecoder.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/icecoder.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/isotope.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/isotope.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/lesser-dark.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/lesser-dark.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/liquibyte.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/liquibyte.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/material.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/material.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/mbo.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/mbo.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/mdn-like.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/mdn-like.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/midnight.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/midnight.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/monokai.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/monokai.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/neat.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/neat.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/neo.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/neo.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/night.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/night.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/paraiso-dark.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/paraiso-dark.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/paraiso-light.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/paraiso-light.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/pastel-on-dark.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/pastel-on-dark.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/railscasts.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/railscasts.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/rubyblue.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/rubyblue.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/seti.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/seti.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/solarized.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/solarized.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/the-matrix.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/the-matrix.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/tomorrow-night-bright.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/tomorrow-night-bright.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/tomorrow-night-eighties.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/tomorrow-night-eighties.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/ttcn.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/ttcn.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/twilight.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/twilight.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/vibrant-ink.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/vibrant-ink.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/xq-dark.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/xq-dark.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/xq-light.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/xq-light.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/yeti.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/yeti.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/libs/CodeMirror/theme/zenburn.css" afterPath="$PROJECT_DIR$/dev/codemirrorlibs/theme/zenburn.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/widget/nav.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/www" afterPath="$PROJECT_DIR$/bin/www" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/css/style.css" afterPath="$PROJECT_DIR$/dev/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/about.ejs" afterPath="$PROJECT_DIR$/views/about.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/contact.ejs" afterPath="$PROJECT_DIR$/views/contact.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.ejs" afterPath="$PROJECT_DIR$/views/index.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/pricing.ejs" afterPath="$PROJECT_DIR$/views/pricing.ejs" />
     </list>
     <ignored path="codeview.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -658,21 +60,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="41" column="42" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="42" />
+            <state relative-caret-position="-582">
+              <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <file leaf-file-name="nav.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/widget/nav.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11728">
-              <caret line="4" column="134388" selection-start-line="4" selection-start-column="134388" selection-end-line="4" selection-end-column="134388" />
+            <state relative-caret-position="450">
+              <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -681,25 +83,35 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="669">
-              <caret line="8391" column="1" selection-start-line="8391" selection-start-column="1" selection-end-line="8391" selection-end-column="1" />
+            <state relative-caret-position="3195">
+              <caret line="359" column="19" selection-start-line="359" selection-start-column="19" selection-end-line="359" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/about.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="636">
-              <caret line="398" column="0" selection-start-line="398" selection-start-column="0" selection-end-line="398" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="15" selection-end-column="75" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="icomoon.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/icomoon.css">
+      <file leaf-file-name="contact.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/contact.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="45" column="75" selection-start-line="45" selection-start-column="75" selection-end-line="45" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/error.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -708,14 +120,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="icomoon.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/css/icomoon.css">
+      <file leaf-file-name="pricing.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/pricing.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            <state relative-caret-position="435">
+              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -727,6 +136,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -742,17 +152,18 @@
         <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/service/indexService.js" />
         <option value="$PROJECT_DIR$/public/css/style.css" />
-        <option value="$PROJECT_DIR$/views/contact.ejs" />
-        <option value="$PROJECT_DIR$/views/pricing.ejs" />
         <option value="$PROJECT_DIR$/bin/www" />
         <option value="$PROJECT_DIR$/dev/views/index.ejs" />
         <option value="$PROJECT_DIR$/dev/css/icomoon.css" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/dev/js/page/index/main.js" />
-        <option value="$PROJECT_DIR$/views/index.ejs" />
-        <option value="$PROJECT_DIR$/dev/css/style.css" />
         <option value="$PROJECT_DIR$/dev/less/page/about/about.less" />
+        <option value="$PROJECT_DIR$/views/widget/nav.html" />
+        <option value="$PROJECT_DIR$/views/index.ejs" />
         <option value="$PROJECT_DIR$/views/about.ejs" />
+        <option value="$PROJECT_DIR$/dev/css/style.css" />
+        <option value="$PROJECT_DIR$/views/contact.ejs" />
+        <option value="$PROJECT_DIR$/views/pricing.ejs" />
       </list>
     </option>
   </component>
@@ -765,10 +176,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1440" />
+    <option name="x" value="45" />
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="width" value="1395" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -838,7 +249,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dev" />
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widget" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -853,102 +268,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="less" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="less" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codeview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="about" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -982,6 +301,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -1111,25 +431,25 @@
       <workItem from="1473733241037" duration="325000" />
       <workItem from="1474269510532" duration="70000" />
       <workItem from="1474356791887" duration="2044000" />
-      <workItem from="1474358859869" duration="1262000" />
+      <workItem from="1474358859869" duration="5278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24585000" />
+    <option name="totallyTimeSpent" value="28601000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="23" width="1920" height="1057" extended-state="6" />
-    <editor active="false" />
+    <frame x="45" y="23" width="1395" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26540285" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36681223" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885212" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1540848" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18932655" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1157,13 +477,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dev/codemirrorlibs/mode/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/codemirrorlibs/demo/preview.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
@@ -1363,31 +676,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/views/about.ejs" />
-    <entry file="file://$PROJECT_DIR$/views/contact.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/error.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/index_bak.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/pricing.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1435,30 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="41" column="42" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11728">
-          <caret line="4" column="134388" selection-start-line="4" selection-start-column="134388" selection-end-line="4" selection-end-column="134388" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="8391" column="1" selection-start-line="8391" selection-start-column="1" selection-end-line="8391" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
@@ -1475,10 +743,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9272">
+          <caret line="4" column="134388" selection-start-line="4" selection-start-column="134388" selection-end-line="4" selection-end-column="134388" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/widget/nav.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3195">
+          <caret line="359" column="19" selection-start-line="359" selection-start-column="19" selection-end-line="359" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/about.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="398" column="0" selection-start-line="398" selection-start-column="0" selection-end-line="398" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="15" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contact.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="45" column="75" selection-start-line="45" selection-start-column="75" selection-end-line="45" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/error.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pricing.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-582">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="28" />
           <folding />
         </state>
       </provider>
