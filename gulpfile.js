@@ -32,23 +32,25 @@ gulp.task('compile-less', function () {
 });
 
 gulp.task('compile-plugins', function () {
-    gulp.src('dev/plugins/**/*.js')
-        .pipe(uglify())
+//先把文件移动到对应目录,然后压缩js和css
+    gulp.src(['dev/plugins/codemirrorlibs/**/*.*'])
+        .pipe(gulp.dest('public/plugins/codemirrorlibs'));
+
+    gulp.src(['dev/plugins/ueditor/**/*.*'])
+        .pipe(gulp.dest('public/plugins/ueditor'));
+
+    gulp.src('public/plugins/**/*.js')
         .pipe(gulp.dest('public/plugins'));
 
-    gulp.src('dev/plugins/**/*.css')
-        .pipe(minifyCss())
+    gulp.src('public/plugins/**/*.css')
         .pipe(gulp.dest('public/plugins'));
 
-    gulp.src('dev/css/**/*.css')
-        .pipe(minifyCss())
+    gulp.src('public/css/**/*.css')
         .pipe(gulp.dest('public/css'));
 
-    gulp.src(['dev/fonts/**/*.*'])
-        .pipe(gulp.dest('public/fonts'));
+    // gulp.src(['public/fonts/**/*.*'])
+    //     .pipe(gulp.dest('public/fonts'));
 
-    gulp.src(['dev/plugins/**/fonts/**/*.*','dev/plugins/**/octicons/*.*'])
-        .pipe(gulp.dest('public/plugins'));
 });
 
 gulp.task('minify-html', function () {

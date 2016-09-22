@@ -23,4 +23,9 @@ router.get('/pricing', function (req, res, next) {
     res.render('pricing', {title: 'Express'});
 });
 
+router.get('/editblog', function (req, res, next) {
+    res.render('uedit', {title: 'Express'});
+});
+
+
 module.exports = router;
