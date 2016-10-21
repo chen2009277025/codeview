@@ -38,6 +38,17 @@ router.use("/saveArticle",function(req,res,next){
     var article = Article.getInstance(title,content,tag);
     UeditorService.saveArticle(article);
     res.redirect("/");
+});
+
+router.use("/viewArticle",function(req,res,next){
+    var id = 1;//req.param("id");
+    UeditorService.getArticleById(id,function(response){
+        if(response){
+            var articles = Article.getBeans(response);
+            res.render("viewarticle",{article:articles[0]});
+        }
+
+    });
 })
 
 module.exports = router;

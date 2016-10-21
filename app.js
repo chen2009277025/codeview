@@ -24,10 +24,12 @@ app.use(bodyParser.urlencoded({extended: false}));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+var service_base_uri = '';
 
-app.use('/', routes);
-app.use('/users', users);
-app.use("/ueditor",ueditor);
+
+app.use(service_base_uri+'/', routes);
+app.use(service_base_uri+'/users', users);
+app.use(service_base_uri+"/ueditor",ueditor);
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {

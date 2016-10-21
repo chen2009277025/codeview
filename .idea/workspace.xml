@@ -2,785 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd60fb51-db62-4ef1-89fd-1d54f067b4c6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_doc.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_exe.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_jpg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_mp3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_mv.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_pdf.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_ppt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_txt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/fileTypeImages/icon_xls.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/images/alignicon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/images/alignicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/images/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/images/file-icons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/images/file-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/images/icons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/images/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/images/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/images/progress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/images/success.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/images/success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/background/images/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/background/images/success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/charts/images/charts0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/charts/images/charts1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/charts/images/charts2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/charts/images/charts3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/charts/images/charts4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/charts/images/charts5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/emotion/images/0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/emotion/images/bface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/emotion/images/cface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/emotion/images/fface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/emotion/images/jxface2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/emotion/images/tface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/emotion/images/wface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/emotion/images/yface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/image/images/alignicon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/image/images/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/image/images/icons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/image/images/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/image/images/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/image/images/progress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/image/images/success.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/image/images/success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/images/addimg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/images/brush.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/images/delimg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/images/delimgH.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/images/empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/images/emptyH.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/images/eraser.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/images/redo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/images/redoH.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/images/scale.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/images/scaleH.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/images/size.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/images/undo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/images/undoH.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/table/dragicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/template/images/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/template/images/pre0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/template/images/pre1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/template/images/pre2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/template/images/pre3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/template/images/pre4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/video/images/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/video/images/center_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/video/images/file-icons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/video/images/file-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/video/images/icons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/video/images/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/video/images/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/video/images/left_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/video/images/none_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/video/images/progress.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/video/images/right_focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/video/images/success.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/video/images/success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/wordimage/fClipboard_ueditor.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/wordimage/imageUploader.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/images/addimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/images/alldeletebtnhoverskin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/images/alldeletebtnupskin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/images/button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/images/copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/images/deletedisable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/images/deleteenable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/images/listbackground.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/images/localimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/images/music.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/images/rotateleftdisable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/images/rotateleftenable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/images/rotaterightdisable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/images/rotaterightenable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/images/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/zh-cn/images/copy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/zh-cn/images/localimage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/zh-cn/images/music.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/zh-cn/images/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/anchor.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/arrow_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/arrow_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/button-bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/cancelbutton.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/charts.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/cursor_h.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/cursor_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/cursor_v.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/cursor_v.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/dialog-title-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/filescan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/highlighted.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/icons-all.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/icons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/loaderror.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/lock.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/neweditor-tab-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/pagebreak.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/scale.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/sortable.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/spacer.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/sparator_v.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/table-cell-align.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/tangram-colorpicker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/toolbar_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/unhighlighted.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/videologo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/word.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/images/wordpaste.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/snapscreen/UEditorSnapscreen.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/video-js/font/vjs.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/video-js/font/vjs.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/video-js/font/vjs.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/video-js/video-js.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/webuploader/Uploader.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/zeroclipboard/ZeroClipboard.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bean/article.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/anchor/anchor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/attachment.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/attachment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/attachment/attachment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/background/background.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/background/background.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/background/background.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/charts/chart.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/charts/charts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/charts/charts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/charts/charts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/emotion/emotion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/emotion/emotion.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/emotion/emotion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/gmap/gmap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/help/help.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/help/help.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/help/help.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/image/image.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/image/image.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/image/image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/insertframe/insertframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/internal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/link/link.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/map/map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/map/show.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/music/music.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/music/music.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/music/music.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/preview/preview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/scrawl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/scrawl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/scrawl/scrawl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/searchreplace/searchreplace.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/searchreplace/searchreplace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/snapscreen/snapscreen.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/spechars/spechars.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/spechars/spechars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/table/edittable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/table/edittable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/table/edittable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/table/edittd.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/table/edittip.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/template/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/template/template.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/template/template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/template/template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/video/video.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/video/video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/video/video.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/webapp/webapp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/wordimage/tangram.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/wordimage/wordimage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/dialogs/wordimage/wordimage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/en/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/lang/zh-cn/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/php/Uploader.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/php/action_crawler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/php/action_list.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/php/action_upload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/php/config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/php/controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/css/ueditor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/css/ueditor.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/default/dialogbase.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/themes/iframe.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/SyntaxHighlighter/shCore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/codemirror/codemirror.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/codemirror/codemirror.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/adapters/mootools-adapter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/adapters/mootools-adapter.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/adapters/prototype-adapter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/adapters/prototype-adapter.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/adapters/standalone-framework.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/adapters/standalone-framework.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/highcharts-more.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/highcharts-more.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/highcharts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/highcharts.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/annotations.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/annotations.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/canvas-tools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/canvas-tools.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/data.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/drilldown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/drilldown.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/exporting.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/exporting.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/funnel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/funnel.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/heatmap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/heatmap.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/map.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/no-data-to-display.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/modules/no-data-to-display.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/themes/dark-blue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/themes/dark-green.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/themes/gray.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/themes/grid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/highcharts/themes/skies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/jquery-1.10.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/jquery-1.10.2.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/video-js/font/vjs.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/video-js/video-js.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/video-js/video-js.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/video-js/video.dev.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/video-js/video.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/webuploader/webuploader.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/webuploader/webuploader.custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/webuploader/webuploader.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/webuploader/webuploader.flashonly.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/webuploader/webuploader.flashonly.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/webuploader/webuploader.html5only.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/webuploader/webuploader.html5only.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/webuploader/webuploader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/webuploader/webuploader.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/webuploader/webuploader.withoutimage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/webuploader/webuploader.withoutimage.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/xss.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/zeroclipboard/ZeroClipboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/ueditor.all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/ueditor.all.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/ueditor.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/ueditor.config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/ueditor.parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/plugins/ueditor/ueditor.parse.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/ueditor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/ueditorService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/uedit.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/widget/commCss.ejs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/comment/comment.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/comment/comment.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/comment/continuecomment.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/comment/continuecomment.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/dialog/dialog.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/dialog/dialog.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/dialog/dialog.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/dialog/dialog.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/display/autorefresh.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/display/autorefresh.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/display/fullscreen.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/display/fullscreen.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/display/fullscreen.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/display/fullscreen.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/display/panel.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/display/panel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/display/placeholder.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/display/placeholder.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/display/rulers.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/display/rulers.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/edit/closebrackets.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/edit/closebrackets.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/edit/closetag.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/edit/closetag.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/edit/continuelist.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/edit/continuelist.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/edit/matchbrackets.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/edit/matchbrackets.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/edit/matchtags.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/edit/matchtags.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/edit/trailingspace.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/edit/trailingspace.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/fold/brace-fold.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/fold/brace-fold.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/fold/comment-fold.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/fold/comment-fold.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/fold/foldcode.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/fold/foldcode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/fold/foldgutter.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/fold/foldgutter.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/fold/foldgutter.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/fold/foldgutter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/fold/indent-fold.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/fold/indent-fold.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/fold/markdown-fold.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/fold/markdown-fold.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/fold/xml-fold.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/fold/xml-fold.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/hint/anyword-hint.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/hint/anyword-hint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/hint/css-hint.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/hint/css-hint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/hint/html-hint.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/hint/html-hint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/hint/javascript-hint.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/hint/javascript-hint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/hint/show-hint.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/hint/show-hint.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/hint/show-hint.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/hint/show-hint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/hint/sql-hint.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/hint/sql-hint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/hint/xml-hint.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/hint/xml-hint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/lint/coffeescript-lint.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/lint/coffeescript-lint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/lint/css-lint.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/lint/css-lint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/lint/html-lint.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/lint/html-lint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/lint/javascript-lint.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/lint/javascript-lint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/lint/json-lint.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/lint/json-lint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/lint/lint.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/lint/lint.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/lint/lint.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/lint/lint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/lint/yaml-lint.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/lint/yaml-lint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/merge/merge.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/merge/merge.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/merge/merge.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/merge/merge.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/mode/loadmode.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/mode/loadmode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/mode/multiplex.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/mode/multiplex.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/mode/multiplex_test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/mode/multiplex_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/mode/overlay.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/mode/overlay.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/mode/simple.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/mode/simple.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/runmode/colorize.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/runmode/colorize.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/runmode/runmode-standalone.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/runmode/runmode-standalone.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/runmode/runmode.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/runmode/runmode.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/runmode/runmode.node.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/runmode/runmode.node.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/scroll/annotatescrollbar.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/scroll/annotatescrollbar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/scroll/scrollpastend.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/scroll/scrollpastend.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/scroll/simplescrollbars.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/scroll/simplescrollbars.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/scroll/simplescrollbars.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/scroll/simplescrollbars.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/search/jump-to-line.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/search/jump-to-line.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/search/match-highlighter.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/search/match-highlighter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/search/matchesonscrollbar.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/search/matchesonscrollbar.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/search/matchesonscrollbar.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/search/matchesonscrollbar.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/search/search.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/search/search.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/search/searchcursor.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/search/searchcursor.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/selection/active-line.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/selection/active-line.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/selection/mark-selection.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/selection/mark-selection.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/selection/selection-pointer.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/selection/selection-pointer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/tern/tern.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/tern/tern.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/tern/tern.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/tern/tern.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/tern/worker.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/tern/worker.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/addon/wrap/hardwrap.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/addon/wrap/hardwrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/bin/authors.sh" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/bin/authors.sh" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/bin/compress" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/bin/compress" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/bin/lint" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/bin/lint" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/bin/release" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/bin/release" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/bin/source-highlight" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/bin/source-highlight" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/bin/upload-release.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/bin/upload-release.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/activeline.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/activeline.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/anywordhint.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/anywordhint.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/bidi.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/bidi.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/btree.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/btree.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/buffers.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/buffers.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/changemode.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/changemode.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/closebrackets.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/closebrackets.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/closetag.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/closetag.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/complete.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/complete.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/emacs.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/emacs.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/folding.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/folding.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/fullscreen.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/fullscreen.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/hardwrap.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/hardwrap.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/html5complete.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/html5complete.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/indentwrap.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/indentwrap.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/lint.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/lint.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/loadmode.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/loadmode.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/marker.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/marker.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/markselection.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/markselection.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/matchhighlighter.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/matchhighlighter.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/matchtags.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/matchtags.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/merge.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/merge.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/multiplex.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/multiplex.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/mustache.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/mustache.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/panel.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/panel.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/placeholder.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/placeholder.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/preview.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/preview.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/requirejs.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/requirejs.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/resize.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/resize.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/rulers.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/rulers.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/runmode.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/runmode.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/search.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/search.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/simplemode.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/simplemode.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/simplescrollbars.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/simplescrollbars.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/spanaffectswrapping_shim.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/spanaffectswrapping_shim.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/sublime.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/sublime.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/tern.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/tern.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/theme.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/theme.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/trailingspace.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/trailingspace.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/variableheight.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/variableheight.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/vim.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/vim.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/visibletabs.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/visibletabs.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/widget.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/widget.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/demo/xmlcomplete.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/xmlcomplete.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/doc/activebookmark.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/doc/activebookmark.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/doc/compress.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/doc/compress.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/doc/docs.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/doc/docs.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/doc/internals.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/doc/internals.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/doc/logo.png" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/doc/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/doc/logo.svg" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/doc/logo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/doc/manual.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/doc/manual.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/doc/realworld.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/doc/realworld.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/doc/releases.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/doc/releases.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/doc/reporting.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/doc/reporting.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/doc/upgrade_v2.2.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/doc/upgrade_v2.2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/doc/upgrade_v3.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/doc/upgrade_v3.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/doc/upgrade_v4.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/doc/upgrade_v4.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/doc/yinyang.png" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/doc/yinyang.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/keymap/emacs.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/keymap/emacs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/keymap/sublime.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/keymap/sublime.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/keymap/vim.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/keymap/vim.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/lib/codemirror.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/lib/codemirror.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/lib/codemirror.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/lib/codemirror.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/apl/apl.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/apl/apl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/apl/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/apl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/asciiarmor/asciiarmor.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/asciiarmor/asciiarmor.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/asciiarmor/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/asciiarmor/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/asn.1/asn.1.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/asn.1/asn.1.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/asn.1/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/asn.1/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/asterisk/asterisk.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/asterisk/asterisk.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/asterisk/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/asterisk/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/brainfuck/brainfuck.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/brainfuck/brainfuck.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/brainfuck/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/brainfuck/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/clike/clike.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/clike/clike.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/clike/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/clike/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/clike/scala.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/clike/scala.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/clike/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/clike/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/clojure/clojure.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/clojure/clojure.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/clojure/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/clojure/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/cmake/cmake.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/cmake/cmake.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/cmake/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/cmake/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/cobol/cobol.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/cobol/cobol.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/cobol/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/cobol/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/coffeescript/coffeescript.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/coffeescript/coffeescript.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/coffeescript/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/coffeescript/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/commonlisp/commonlisp.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/commonlisp/commonlisp.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/commonlisp/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/commonlisp/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/crystal/crystal.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/crystal/crystal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/crystal/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/crystal/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/css.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/css/css.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/gss.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/css/gss.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/gss_test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/css/gss_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/css/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/less.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/css/less.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/less_test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/css/less_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/scss.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/css/scss.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/scss_test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/css/scss_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/css/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/css/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/cypher/cypher.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/cypher/cypher.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/cypher/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/cypher/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/d/d.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/d/d.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/d/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/d/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dart/dart.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/dart/dart.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dart/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/dart/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/diff/diff.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/diff/diff.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/diff/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/diff/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/django/django.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/django/django.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/django/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/django/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dockerfile/dockerfile.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/dockerfile/dockerfile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dockerfile/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/dockerfile/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dtd/dtd.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/dtd/dtd.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dtd/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/dtd/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dylan/dylan.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/dylan/dylan.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dylan/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/dylan/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/dylan/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/dylan/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ebnf/ebnf.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/ebnf/ebnf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ebnf/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/ebnf/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ecl/ecl.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/ecl/ecl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ecl/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/ecl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/eiffel/eiffel.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/eiffel/eiffel.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/eiffel/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/eiffel/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/elm/elm.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/elm/elm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/elm/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/elm/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/erlang/erlang.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/erlang/erlang.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/erlang/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/erlang/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/factor/factor.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/factor/factor.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/factor/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/factor/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/fcl/fcl.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/fcl/fcl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/fcl/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/fcl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/forth/forth.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/forth/forth.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/forth/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/forth/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/fortran/fortran.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/fortran/fortran.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/fortran/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/fortran/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/gas/gas.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/gas/gas.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/gas/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/gas/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/gfm/gfm.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/gfm/gfm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/gfm/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/gfm/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/gfm/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/gfm/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/gherkin/gherkin.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/gherkin/gherkin.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/gherkin/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/gherkin/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/go/go.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/go/go.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/go/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/go/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/groovy/groovy.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/groovy/groovy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/groovy/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/groovy/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haml/haml.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/haml/haml.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haml/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/haml/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haml/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/haml/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/handlebars/handlebars.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/handlebars/handlebars.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/handlebars/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/handlebars/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haskell-literate/haskell-literate.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/haskell-literate/haskell-literate.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haskell-literate/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/haskell-literate/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haskell/haskell.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/haskell/haskell.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haskell/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/haskell/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haxe/haxe.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/haxe/haxe.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/haxe/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/haxe/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/htmlembedded/htmlembedded.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/htmlembedded/htmlembedded.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/htmlembedded/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/htmlembedded/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/htmlmixed/htmlmixed.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/htmlmixed/htmlmixed.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/htmlmixed/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/htmlmixed/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/http/http.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/http/http.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/http/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/http/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/idl/idl.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/idl/idl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/idl/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/idl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/jade/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/jade/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/jade/jade.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/jade/jade.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/javascript/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/javascript/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/javascript/javascript.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/javascript/javascript.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/javascript/json-ld.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/javascript/json-ld.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/javascript/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/javascript/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/javascript/typescript.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/javascript/typescript.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/jinja2/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/jinja2/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/jinja2/jinja2.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/jinja2/jinja2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/jsx/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/jsx/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/jsx/jsx.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/jsx/jsx.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/jsx/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/jsx/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/julia/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/julia/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/julia/julia.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/julia/julia.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/livescript/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/livescript/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/livescript/livescript.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/livescript/livescript.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/lua/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/lua/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/lua/lua.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/lua/lua.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/markdown/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/markdown/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/markdown/markdown.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/markdown/markdown.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/markdown/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/markdown/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mathematica/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/mathematica/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mathematica/mathematica.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/mathematica/mathematica.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mbox/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/mbox/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mbox/mbox.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/mbox/mbox.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/meta.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/meta.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mirc/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/mirc/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mirc/mirc.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/mirc/mirc.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mllike/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/mllike/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mllike/mllike.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/mllike/mllike.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/modelica/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/modelica/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/modelica/modelica.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/modelica/modelica.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mscgen/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/mscgen/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mscgen/mscgen.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/mscgen/mscgen.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mscgen/mscgen_test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/mscgen/mscgen_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mscgen/msgenny_test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/mscgen/msgenny_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mscgen/xu_test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/mscgen/xu_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mumps/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/mumps/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/mumps/mumps.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/mumps/mumps.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/nginx/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/nginx/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/nginx/nginx.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/nginx/nginx.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/nsis/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/nsis/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/nsis/nsis.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/nsis/nsis.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ntriples/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/ntriples/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ntriples/ntriples.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/ntriples/ntriples.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/octave/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/octave/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/octave/octave.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/octave/octave.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/oz/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/oz/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/oz/oz.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/oz/oz.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/pascal/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/pascal/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/pascal/pascal.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/pascal/pascal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/pegjs/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/pegjs/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/pegjs/pegjs.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/pegjs/pegjs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/perl/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/perl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/perl/perl.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/perl/perl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/php/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/php/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/php/php.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/php/php.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/php/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/php/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/pig/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/pig/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/pig/pig.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/pig/pig.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/powershell/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/powershell/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/powershell/powershell.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/powershell/powershell.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/powershell/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/powershell/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/properties/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/properties/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/properties/properties.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/properties/properties.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/protobuf/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/protobuf/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/protobuf/protobuf.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/protobuf/protobuf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/puppet/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/puppet/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/puppet/puppet.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/puppet/puppet.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/python/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/python/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/python/python.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/python/python.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/python/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/python/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/q/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/q/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/q/q.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/q/q.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/r/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/r/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/r/r.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/r/r.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/rpm/changes/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/rpm/changes/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/rpm/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/rpm/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/rpm/rpm.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/rpm/rpm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/rst/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/rst/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/rst/rst.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/rst/rst.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ruby/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/ruby/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ruby/ruby.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/ruby/ruby.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ruby/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/ruby/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/rust/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/rust/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/rust/rust.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/rust/rust.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/rust/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/rust/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sas/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/sas/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sas/sas.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/sas/sas.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sass/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/sass/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sass/sass.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/sass/sass.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/scheme/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/scheme/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/scheme/scheme.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/scheme/scheme.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/shell/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/shell/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/shell/shell.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/shell/shell.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/shell/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/shell/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sieve/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/sieve/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sieve/sieve.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/sieve/sieve.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/slim/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/slim/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/slim/slim.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/slim/slim.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/slim/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/slim/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/smalltalk/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/smalltalk/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/smalltalk/smalltalk.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/smalltalk/smalltalk.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/smarty/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/smarty/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/smarty/smarty.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/smarty/smarty.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/solr/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/solr/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/solr/solr.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/solr/solr.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/soy/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/soy/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/soy/soy.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/soy/soy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sparql/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/sparql/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sparql/sparql.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/sparql/sparql.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/spreadsheet/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/spreadsheet/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/spreadsheet/spreadsheet.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/spreadsheet/spreadsheet.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sql/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/sql/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/sql/sql.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/sql/sql.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/stex/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/stex/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/stex/stex.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/stex/stex.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/stex/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/stex/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/stylus/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/stylus/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/stylus/stylus.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/stylus/stylus.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/swift/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/swift/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/swift/swift.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/swift/swift.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tcl/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/tcl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tcl/tcl.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/tcl/tcl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/textile/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/textile/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/textile/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/textile/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/textile/textile.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/textile/textile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tiddlywiki/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/tiddlywiki/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tiddlywiki/tiddlywiki.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/tiddlywiki/tiddlywiki.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tiddlywiki/tiddlywiki.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/tiddlywiki/tiddlywiki.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tiki/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/tiki/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tiki/tiki.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/tiki/tiki.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tiki/tiki.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/tiki/tiki.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/toml/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/toml/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/toml/toml.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/toml/toml.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tornado/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/tornado/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/tornado/tornado.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/tornado/tornado.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/troff/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/troff/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/troff/troff.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/troff/troff.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ttcn-cfg/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/ttcn-cfg/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ttcn-cfg/ttcn-cfg.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/ttcn-cfg/ttcn-cfg.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ttcn/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/ttcn/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/ttcn/ttcn.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/ttcn/ttcn.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/turtle/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/turtle/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/turtle/turtle.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/turtle/turtle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/twig/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/twig/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/twig/twig.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/twig/twig.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/vb/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/vb/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/vb/vb.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/vb/vb.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/vbscript/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/vbscript/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/vbscript/vbscript.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/vbscript/vbscript.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/velocity/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/velocity/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/velocity/velocity.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/velocity/velocity.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/verilog/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/verilog/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/verilog/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/verilog/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/verilog/verilog.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/verilog/verilog.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/vhdl/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/vhdl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/vhdl/vhdl.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/vhdl/vhdl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/vue/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/vue/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/vue/vue.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/vue/vue.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/webidl/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/webidl/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/webidl/webidl.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/webidl/webidl.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/xml/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/xml/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/xml/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/xml/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/xml/xml.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/xml/xml.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/xquery/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/xquery/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/xquery/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/xquery/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/xquery/xquery.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/xquery/xquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/yacas/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/yacas/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/yacas/yacas.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/yacas/yacas.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/yaml-frontmatter/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/yaml-frontmatter/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/yaml-frontmatter/yaml-frontmatter.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/yaml-frontmatter/yaml-frontmatter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/yaml/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/yaml/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/yaml/yaml.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/yaml/yaml.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/z80/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/z80/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/mode/z80/z80.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/mode/z80/z80.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/comment_test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/comment_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/doc_test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/doc_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/driver.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/driver.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/emacs_test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/emacs_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/index.html" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/lint.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/lint.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/mode_test.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/mode_test.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/mode_test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/mode_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/multi_test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/multi_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/phantom_driver.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/phantom_driver.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/run.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/run.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/scroll_test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/scroll_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/search_test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/search_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/sql-hint-test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/sql-hint-test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/sublime_test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/sublime_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/test/vim_test.js" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/test/vim_test.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/3024-day.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/3024-day.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/3024-night.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/3024-night.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/abcdef.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/abcdef.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/ambiance-mobile.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/ambiance-mobile.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/ambiance.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/ambiance.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/base16-dark.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/base16-dark.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/base16-light.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/base16-light.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/bespin.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/bespin.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/blackboard.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/blackboard.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/cobalt.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/cobalt.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/colorforth.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/colorforth.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/dracula.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/dracula.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/eclipse.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/eclipse.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/elegant.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/elegant.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/erlang-dark.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/erlang-dark.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/hopscotch.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/hopscotch.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/icecoder.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/icecoder.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/isotope.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/isotope.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/lesser-dark.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/lesser-dark.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/liquibyte.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/liquibyte.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/material.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/material.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/mbo.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/mbo.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/mdn-like.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/mdn-like.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/midnight.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/midnight.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/monokai.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/monokai.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/neat.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/neat.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/neo.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/neo.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/night.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/night.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/paraiso-dark.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/paraiso-dark.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/paraiso-light.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/paraiso-light.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/pastel-on-dark.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/pastel-on-dark.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/railscasts.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/railscasts.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/rubyblue.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/rubyblue.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/seti.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/seti.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/solarized.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/solarized.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/the-matrix.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/the-matrix.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/tomorrow-night-bright.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/tomorrow-night-bright.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/tomorrow-night-eighties.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/tomorrow-night-eighties.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/ttcn.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/ttcn.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/twilight.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/twilight.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/vibrant-ink.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/vibrant-ink.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/xq-dark.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/xq-dark.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/xq-light.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/xq-light.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/yeti.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/yeti.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dev/codemirrorlibs/theme/zenburn.css" afterPath="$PROJECT_DIR$/dev/plugins/codemirrorlibs/theme/zenburn.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/public/fonts/bootstrap/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dev/less/page/viewarticle/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/viewarticle.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/animate.css" afterPath="$PROJECT_DIR$/public/css/animate.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/magnific-popup.css" afterPath="$PROJECT_DIR$/public/css/magnific-popup.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/plugins/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/public/plugins/bootstrap/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/plugins/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/public/plugins/bootstrap/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/plugins/github-activity/dist/github-activity-0.1.0.min.css" afterPath="$PROJECT_DIR$/public/plugins/github-activity/dist/github-activity-0.1.0.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/plugins/github-activity/dist/github-activity-0.1.1.min.css" afterPath="$PROJECT_DIR$/public/plugins/github-activity/dist/github-activity-0.1.1.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/plugins/github-activity/dist/octicons/octicons.min.css" afterPath="$PROJECT_DIR$/public/plugins/github-activity/dist/octicons/octicons.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/plugins/github-activity/src/github-activity.css" afterPath="$PROJECT_DIR$/public/plugins/github-activity/src/github-activity.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/plugins/jquery-1.11.2.min.js" afterPath="$PROJECT_DIR$/public/plugins/jquery-1.11.2.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/about.ejs" afterPath="$PROJECT_DIR$/views/about.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/contact.ejs" afterPath="$PROJECT_DIR$/views/contact.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.ejs" afterPath="$PROJECT_DIR$/views/index.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/pricing.ejs" afterPath="$PROJECT_DIR$/views/pricing.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bean/article.js" afterPath="$PROJECT_DIR$/bean/article.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/ueditor.js" afterPath="$PROJECT_DIR$/routes/ueditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/ueditorService.js" afterPath="$PROJECT_DIR$/service/ueditorService.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/widget/commCss.ejs" afterPath="$PROJECT_DIR$/views/widget/commCss.ejs" />
     </list>
     <ignored path="codeview.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -801,21 +31,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="16" column="91" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="91" />
+            <state relative-caret-position="45">
+              <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="nav.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/widget/nav.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="viewarticle.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/viewarticle.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="protect" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/protect">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="www" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/www">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -824,8 +94,8 @@
       <file leaf-file-name="about.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/about.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+            <state relative-caret-position="-1020">
+              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -841,70 +111,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pricing.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/pricing.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ueditorService.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/ueditorService.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#45#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="article.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bean/article.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#45#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <file leaf-file-name="commCss.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/widget/commCss.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ueditor.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/ueditor.js">
+      <file leaf-file-name="style.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/less/page/viewarticle/style.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#45#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uedit.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/uedit.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-              <folding>
-                <element signature="n#style#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -914,8 +136,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -941,21 +164,25 @@
         <option value="$PROJECT_DIR$/conn/index.html" />
         <option value="$PROJECT_DIR$/views/uedit.html" />
         <option value="$PROJECT_DIR$/public/plugins/ueditor/ueditor.config.js" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/dev/plugins/ueditor/ueditor.config.js" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/dev/plugins/ueditor/config.json" />
         <option value="$PROJECT_DIR$/views/widget/nav.ejs" />
-        <option value="$PROJECT_DIR$/views/widget/commCss.ejs" />
-        <option value="$PROJECT_DIR$/bean/article.js" />
         <option value="$PROJECT_DIR$/routes/index.js" />
-        <option value="$PROJECT_DIR$/routes/ueditor.js" />
-        <option value="$PROJECT_DIR$/service/ueditorService.js" />
         <option value="$PROJECT_DIR$/views/index.ejs" />
         <option value="$PROJECT_DIR$/views/about.ejs" />
         <option value="$PROJECT_DIR$/views/contact.ejs" />
         <option value="$PROJECT_DIR$/views/pricing.ejs" />
         <option value="$PROJECT_DIR$/views/uedit.ejs" />
+        <option value="$PROJECT_DIR$/views/viewarticle.html" />
+        <option value="$PROJECT_DIR$/service/ueditorService.js" />
+        <option value="$PROJECT_DIR$/bean/article.js" />
+        <option value="$PROJECT_DIR$/routes/ueditor.js" />
+        <option value="$PROJECT_DIR$/dev/less/page/viewarticle/style.css" />
+        <option value="$PROJECT_DIR$/dev/less/page/viewarticle/style.less" />
+        <option value="$PROJECT_DIR$/views/viewarticle.ejs" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/views/widget/commCss.ejs" />
       </list>
     </option>
   </component>
@@ -998,6 +225,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -1041,6 +269,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1055,7 +301,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="routes" />
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codeview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1075,7 +335,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1086,6 +345,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -1107,9 +367,6 @@
     <configuration default="false" name="requirejs.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/codeview/public/libs/CodeMirror/demo/requirejs.html">
       <method />
     </configuration>
-    <configuration default="false" name="rulers.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/codeview/public/libs/CodeMirror/demo/rulers.html">
-      <method />
-    </configuration>
     <configuration default="false" name="simplescrollbars.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/codeview/public/libs/CodeMirror/demo/simplescrollbars.html">
       <method />
     </configuration>
@@ -1117,6 +374,9 @@
       <method />
     </configuration>
     <configuration default="false" name="article.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="article.js" working-dir="$PROJECT_DIR$/bean">
+      <method />
+    </configuration>
+    <configuration default="false" name="ueditorService.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ueditorService.js" working-dir="$PROJECT_DIR$/service">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -1175,18 +435,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.bin/www" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.requirejs.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.rulers.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.simplescrollbars.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.mustache.html" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.article.js" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.simplescrollbars.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.mustache.html" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.article.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.ueditorService.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.article.js" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.requirejs.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.mustache.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.simplescrollbars.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.rulers.html" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.ueditorService.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.article.js" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.requirejs.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.mustache.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.simplescrollbars.html" />
       </list>
     </recent_temporary>
   </component>
@@ -1215,34 +475,39 @@
       <workItem from="1473733241037" duration="325000" />
       <workItem from="1474269510532" duration="70000" />
       <workItem from="1474356791887" duration="2044000" />
-      <workItem from="1474358859869" duration="26094000" />
+      <workItem from="1474358859869" duration="29972000" />
+      <workItem from="1474523735535" duration="1281000" />
+      <workItem from="1476176875698" duration="34000" />
+      <workItem from="1477034153607" duration="10000" />
+      <workItem from="1477034244437" duration="1648000" />
+      <workItem from="1477038139784" duration="329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49417000" />
+    <option name="totallyTimeSpent" value="56597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="23" width="1395" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36681223" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36608443" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909784" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278272" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36594662" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36594662" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278272" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909784" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1263,48 +528,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/matchhighlighter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="96" column="64" selection-start-line="96" selection-start-column="47" selection-end-line="96" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/merge.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/rulers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/mustache.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/requirejs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="52" column="46" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/plugins/codemirrorlibs/demo/preview.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -1343,20 +566,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/views/contact.ejs" />
     <entry file="file://$PROJECT_DIR$/dev/js/html5shiv.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1365,7 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1377,7 +590,6 @@
           <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
           <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
           <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1385,23 +597,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/js/page/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/js/page/main.js" />
     <entry file="file://$PROJECT_DIR$/dev/js/page/index/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1409,7 +612,129 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9272">
+          <caret line="4" column="134388" selection-start-line="4" selection-start-column="134388" selection-end-line="4" selection-end-column="134388" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/index.html" />
+    <entry file="file://$PROJECT_DIR$/conn/index.html" />
+    <entry file="file://$PROJECT_DIR$/views/error.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ueditor/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/plugins/ueditor/ueditor.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="654" selection-start-line="0" selection-start-column="654" selection-end-line="0" selection-end-column="654" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/plugins/ueditor/ueditor.all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/plugins/ueditor/ueditor.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="451" column="0" selection-start-line="451" selection-start-column="0" selection-end-line="451" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/plugins/ueditor/ueditor.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/indexService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pricing.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/uedit.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/ueditorService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/ueditor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="47" column="60" selection-start-line="47" selection-start-column="60" selection-end-line="47" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean/article.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1421,23 +746,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+    <entry file="file://$PROJECT_DIR$/dev/less/mixins.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9272">
-          <caret line="4" column="134388" selection-start-line="4" selection-start-column="134388" selection-end-line="4" selection-end-column="134388" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/less/base.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3195">
-          <caret line="359" column="19" selection-start-line="359" selection-start-column="19" selection-end-line="359" selection-end-column="19" />
+        <state relative-caret-position="5415">
+          <caret line="361" column="9" selection-start-line="361" selection-start-column="7" selection-end-line="361" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/index.html">
+    <entry file="file://$PROJECT_DIR$/dev/less/page/viewarticle/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/viewarticle.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/protect">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1445,78 +793,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conn/index.html">
+    <entry file="file://$PROJECT_DIR$/bin/www">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="450">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/error.ejs">
+    <entry file="file://$PROJECT_DIR$/node_modules/express/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/ueditor/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="60">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/plugins/ueditor/ueditor.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="654" selection-start-line="0" selection-start-column="654" selection-end-line="0" selection-end-column="654" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/plugins/ueditor/ueditor.all.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/plugins/ueditor/ueditor.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="451" column="0" selection-start-line="451" selection-start-column="0" selection-end-line="451" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/plugins/ueditor/ueditor.config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="85" column="1" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
+        <state relative-caret-position="337">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -1529,52 +825,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/widget/commCss.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="71" selection-start-line="1" selection-start-column="71" selection-end-line="1" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/indexService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="18" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bean/article.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/ueditorService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/about.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/contact.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1583,54 +833,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/pricing.ejs">
+    <entry file="file://$PROJECT_DIR$/views/widget/commCss.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+        <state relative-caret-position="165">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/uedit.ejs">
+    <entry file="file://$PROJECT_DIR$/views/about.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-          <folding>
-            <element signature="n#style#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1020">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="91" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="91" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/ueditor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#45#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        <state relative-caret-position="45">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
           <folding />
         </state>
       </provider>

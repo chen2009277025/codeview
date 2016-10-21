@@ -19,5 +19,15 @@ Article.getInstance = function(title,content,tag){
     return Article(title,content,tag);
 }
 
+Article.getBeans = function(sqlArr){
+    var arts = [];
+    if(sqlArr && sqlArr.length > 0){
+        sqlArr.map(function(item){
+            arts.push(Article(item.title,item.content,item.tag,item.createtime))
+        })
+    }
+    return arts;
+}
+
 
 module.exports = Article;

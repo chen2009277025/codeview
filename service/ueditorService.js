@@ -15,6 +15,17 @@ var UeditorService = {
                 callback(res)
             }
         })
+    },
+    getArticleById:function(id,callback){
+        var selectSql = "select * from article where id="+id;
+        dbTool.insert(selectSql,function(err,res){
+            if(err){
+                return console.log(err);
+            }
+            if(callback){
+                callback(res)
+            }
+        })
     }
 }
 
